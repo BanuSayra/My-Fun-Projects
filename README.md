@@ -1,4 +1,4 @@
-# 🎮 My Fun Projects
+# ✨ 🎮 My Fun Projects
 
 Welcome to my collection of **fun, creative, and innovative programming projects** 🚀
 
