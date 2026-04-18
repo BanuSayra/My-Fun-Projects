@@ -10,7 +10,7 @@ This repository showcases my programming journey—from **basic to advanced leve
 
 * 🎯 Mini games
 * 🛠️ Useful applications
-* 💡 Creative experiments
+* 📚 Previous university projects/assignments* 💡 Creative experiments
 * 🎨 Customized and unique implementations
 
 ## 🎯 Purpose
